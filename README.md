@@ -1,2 +1,4 @@
 <div align="center"> 
-<img width="484" height="484" alt="image" src="https://github.com/user-attachments/assets/0ea6c067-9657-4c34-8ab1-43dff369523b" />
+
+  ![](https://komarev.com/ghpvc/?username=tyzmle&label=chuds&color=6e7363)
+<img width="501" height="503" alt="image" src="https://github.com/user-attachments/assets/26bcb456-7db8-47ed-a58d-5c3f90074fc6" />
