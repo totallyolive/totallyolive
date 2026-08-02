@@ -3,7 +3,7 @@
 
  
 
-
+𝓵𝓪𝓾𝓯𝓮𝔂 𝓪𝓷𝓭 𝓽𝓱𝓮 𝓶𝓪𝓻𝓲𝓪𝓼 𝓽𝔀𝓸 𝓶𝓪𝓷
 <div align="center"> 
 <img width="600" height="450" alt="#jazz #jazzfortwo #jazzsheetmusic #jazzlover" src="https://github.com/user-attachments/assets/6c934ba0-af85-4df7-a2bf-0560a7104ea8" />
 
